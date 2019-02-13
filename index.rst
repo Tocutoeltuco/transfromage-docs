@@ -6,7 +6,7 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   python (threaded version)
-   python (async version)
-   lua (luvit version)
+   python_threaded
+   python_async
+   lua_luvit
    nodejs
